@@ -1,4 +1,4 @@
-# This repository contains the step-by-step instructions to setup a static web site on Amazon Web Services (AWS) Simple Storage Serrvice (S3).
+# This repository contains the step-by-step instructions to setup a static web site on Amazon Web Services (AWS) Simple Storage Service (S3).
 
 ## Pre-requisites for this tutorial:
 - You have an AWS login account.
